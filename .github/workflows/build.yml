@@ -4,6 +4,9 @@ on:
   push:
     paths:
       - 'channels/**'
+      - 'templates/**'
+      - 'logos/**'
+      - 'build.py'
 
 jobs:
   build:
