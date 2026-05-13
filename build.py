@@ -1,11 +1,24 @@
 import os
 import json
-import time
 
 CHANNEL_DIR = "channels"
 OUTPUT_DIR = "templates"
 
-version = f"v{int(time.time())}"
+# 读取旧版本号
+old_version = 0
+
+if os.path.exists("version.json"):
+
+    with open("version.json", "r", encoding="utf-8") as f:
+
+        data = json.load(f)
+
+        old_version = int(
+            data.get("version", "v0").replace("v", "")
+        )
+
+# 自动 +1
+version = f"v{old_version + 1}"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
