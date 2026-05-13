@@ -5,13 +5,10 @@ import time
 CHANNEL_DIR = "channels"
 OUTPUT_DIR = "templates"
 
-# 自动更新时间版本号
 version = f"v{int(time.time())}"
 
-# 确保 templates 目录存在
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-# 遍历 channels 目录
 for filename in os.listdir(CHANNEL_DIR):
 
     if not filename.endswith(".txt"):
@@ -25,6 +22,8 @@ for filename in os.listdir(CHANNEL_DIR):
 
     channels = []
 
+    current_group = "其他频道"
+
     with open(txt_path, "r", encoding="utf-8") as f:
 
         for line in f:
@@ -35,23 +34,42 @@ for filename in os.listdir(CHANNEL_DIR):
                 continue
 
             try:
-                name, url = line.split(",", 1)
 
-                channels.append({
-                    "name": name.strip(),
-                    "url": url.strip()
-                })
+                name, value = line.split(",", 1)
 
-            except:
+                name = name.strip()
+                value = value.strip()
+
+                # 分组行
+                if value == "#genre#":
+
+                    current_group = name
+                    continue
+
+                # 普通频道
+                channel = {
+                    "id": name,
+                    "name": name,
+                    "group": current_group,
+                    "logo": f"{name}.png",
+                    "src": value
+                }
+
+                channels.append(channel)
+
+            except Exception as e:
+
                 print(f"格式错误: {line}")
+                print(e)
 
-    # 写入对应 json
+    result = {
+        "version": version,
+        "channels": channels
+    }
+
     with open(json_path, "w", encoding="utf-8") as f:
 
-        json.dump({
-            "version": version,
-            "channels": channels
-        }, f, ensure_ascii=False, indent=2)
+        json.dump(result, f, ensure_ascii=False, indent=2)
 
     print(f"生成: {json_path}")
 
