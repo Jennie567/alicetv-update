@@ -1,5 +1,8 @@
 {
-  "version": "v2",
+  "version": "2026.05.13.1439",
+  "updated_at": "2026-05-13 14:39:38",
+  "region": "neimenggu_unicom",
+  "channel_count": 119,
   "channels": [
     {
       "id": "CCTV1",
@@ -826,6 +829,13 @@
       "group": "其他频道",
       "logo": "游戏风云.png",
       "src": "239.125.1.33:5000"
+    },
+    {
+      "id": "乐游",
+      "name": "乐游",
+      "group": "其他频道",
+      "logo": "乐游.png",
+      "src": "239.125.1.38:5000"
     }
   ]
 }
