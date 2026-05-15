@@ -1,6 +1,6 @@
 {
-  "version": "2026.05.15.1439",
-  "updated_at": "2026-05-15 14:39:46",
+  "version": "2026.05.15.1441",
+  "updated_at": "2026-05-15 14:41:48",
   "region": "neimenggu_unicom",
   "channel_count": 119,
   "channels": [
@@ -796,17 +796,17 @@
       "src": "239.125.2.201:4120"
     },
     {
-      "id": "CGTN西语",
-      "name": "CGTN西语",
+      "id": "CGTN西班牙语",
+      "name": "CGTN西班牙语",
       "group": "其他频道",
-      "logo": "CGTN西语.png",
+      "logo": "CGTN西班牙语.png",
       "src": "239.125.2.200:4120"
     },
     {
-      "id": "CGTN阿语",
-      "name": "CGTN阿语",
+      "id": "CGTN阿拉伯语",
+      "name": "CGTN阿拉伯语",
       "group": "其他频道",
-      "logo": "CGTN阿语.png",
+      "logo": "CGTN阿拉伯语.png",
       "src": "239.125.2.202:4120"
     },
     {
