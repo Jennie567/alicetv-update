@@ -53,6 +53,17 @@ for filename in os.listdir(CHANNEL_DIR):
                 name = name.strip()
                 value = value.strip()
 
+                # 兼容旧版 AliceTV：
+                # GitHub txt 可以写 rtp:// 或 udp://
+                # 但生成 templates/*.json 时自动去掉协议头
+                lower_value = value.lower()
+
+                if lower_value.startswith("rtp://"):
+                    value = value[6:].strip()
+
+                elif lower_value.startswith("udp://"):
+                    value = value[6:].strip()
+
                 # 分组
                 if value == "#genre#":
 
