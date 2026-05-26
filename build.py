@@ -6,7 +6,7 @@ CHANNEL_DIR = "channels"
 OUTPUT_DIR = "templates"
 M3U_DIR = "m3u"
 
-LOGO_BASE_URL = "https://alicetv-update.pages.dev/logos"
+LOGO_BASE_URL = "https://raw.githubusercontent.com/Jennie567/icon/main/TV"
 
 # 时间版本号
 version = datetime.now().strftime("%Y.%m.%d.%H%M")
