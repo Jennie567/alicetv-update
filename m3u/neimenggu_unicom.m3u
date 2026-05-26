@@ -15,7 +15,7 @@ udp://239.125.2.56:4120
 udp://239.125.2.63:4120
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV8.png" group-title="央视+卫视" catchup="default" catchup-source="rtsp://10.11.43.21/PLTV/88888912/224/3221226444/10000100000000060000000000808423_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV8
 udp://239.125.2.58:4120
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV9.png" group-title="央视+卫视",CCTV9
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV9.png" group-title="央视+卫视" catchup="default" catchup-source="rtsp://10.11.43.21/PLTV/88888912/224/3221226443/10000100000000060000000000870186_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV9
 udp://239.125.2.62:4120
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV10.png" group-title="央视+卫视",CCTV10
 udp://239.125.2.61:4120
