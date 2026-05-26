@@ -6,6 +6,7 @@ on:
       - 'channels/**'
       - 'build.py'
       - '.github/workflows/**'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -19,6 +20,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           persist-credentials: true
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -26,7 +28,13 @@ jobs:
           python-version: '3.11'
 
       - name: Build JSON and M3U
-        run: python build.py
+        run: |
+          python build.py
+
+      - name: Show changes
+        run: |
+          git status
+          git diff --stat
 
       - name: Commit generated files
         run: |
