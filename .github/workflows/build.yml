@@ -6,6 +6,7 @@ on:
       - 'channels/**'
       - 'templates/**'
       - 'logos/**'
+      - 'm3u/**'
       - 'build.py'
 
 jobs:
@@ -36,7 +37,7 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
 
-          git add templates/*.json version.json
+          git add templates/*.json m3u/*.m3u version.json
 
           git commit -m "Auto update channels" || echo "No changes"
 
