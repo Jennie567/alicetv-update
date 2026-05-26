@@ -4,41 +4,42 @@ on:
   push:
     paths:
       - 'channels/**'
-      - 'templates/**'
-      - 'logos/**'
-      - 'm3u/**'
       - 'build.py'
+      - '.github/workflows/**'
+
+permissions:
+  contents: write
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
-
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: '3.11'
 
-      - name: Build JSON
+      - name: Build JSON and M3U
         run: python build.py
 
-      - name: Commit files
-
+      - name: Commit generated files
         run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git add -A templates m3u version.json
 
-          git add templates/*.json m3u/*.m3u version.json
+          git status
 
-          git commit -m "Auto update channels" || echo "No changes"
-
-          git push
+          if git diff --cached --quiet; then
+            echo "No generated changes to commit"
+          else
+            git commit -m "Auto update channels"
+            git push
+          fi
