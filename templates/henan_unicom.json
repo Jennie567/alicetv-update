@@ -1,6 +1,6 @@
 {
-  "version": "2026.05.26.0343",
-  "updated_at": "2026-05-26 03:43:12",
+  "version": "2026.05.26.1017",
+  "updated_at": "2026-05-26 10:17:54",
   "region": "henan_unicom",
   "channel_count": 99,
   "channels": [
@@ -376,10 +376,10 @@
       "src": "225.1.4.208:1261"
     },
     {
-      "id": "CHC高清电影",
-      "name": "CHC高清电影",
+      "id": "CHC影迷电影",
+      "name": "CHC影迷电影",
       "group": "本地+精品",
-      "logo": "CHC高清电影.png",
+      "logo": "CHC影迷电影.png",
       "src": "225.1.4.207:1260"
     },
     {
