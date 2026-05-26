@@ -59,10 +59,18 @@ for filename in os.listdir(CHANNEL_DIR):
 
             try:
 
-                name, value = line.split(",", 1)
+                parts = line.split(",", 2)
 
-                name = name.strip()
-                value = value.strip()
+                if len(parts) < 2:
+                    raise ValueError("频道格式错误，至少需要：频道名,播放地址")
+
+                name = parts[0].strip()
+                value = parts[1].strip()
+
+                playback_src = ""
+
+                if len(parts) >= 3:
+                    playback_src = parts[2].strip()
 
                 lower_value = value.lower()
 
@@ -102,6 +110,11 @@ for filename in os.listdir(CHANNEL_DIR):
                     f'#EXTINF:-1 tvg-id="{name}" tvg-name="{name}" tvg-logo="{logo_url}" group-title="{current_group}",{name}'
                 )
                 m3u_lines.append(m3u_src)
+
+                # M3U 回看地址：
+                # 只写进 m3u，不写进 templates/*.json，不影响 AliceTV 盒子
+                if playback_src:
+                    m3u_lines.append(f"#{playback_src}")
 
             except Exception as e:
 
