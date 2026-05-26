@@ -4,6 +4,9 @@ from datetime import datetime
 
 CHANNEL_DIR = "channels"
 OUTPUT_DIR = "templates"
+M3U_DIR = "m3u"
+
+LOGO_BASE_URL = "https://alicetv-update.pages.dev/logos"
 
 # 时间版本号
 version = datetime.now().strftime("%Y.%m.%d.%H%M")
@@ -13,6 +16,7 @@ updated_at = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
 # 创建输出目录
 os.makedirs(OUTPUT_DIR, exist_ok=True)
+os.makedirs(M3U_DIR, exist_ok=True)
 
 # 总频道数
 total_channels = 0
@@ -32,7 +36,14 @@ for filename in os.listdir(CHANNEL_DIR):
         f"{region_name}.json"
     )
 
+    m3u_path = os.path.join(
+        M3U_DIR,
+        f"{region_name}.m3u"
+    )
+
     channels = []
+
+    m3u_lines = ["#EXTM3U"]
 
     current_group = "其他频道"
 
@@ -53,6 +64,15 @@ for filename in os.listdir(CHANNEL_DIR):
                 name = name.strip()
                 value = value.strip()
 
+                # 分组
+                if value == "#genre#":
+
+                    current_group = name
+                    continue
+
+                # M3U 使用原始播放地址
+                m3u_src = value
+
                 # 兼容旧版 AliceTV：
                 # GitHub txt 可以写 rtp:// 或 udp://
                 # 但生成 templates/*.json 时自动去掉协议头
@@ -64,12 +84,6 @@ for filename in os.listdir(CHANNEL_DIR):
                 elif lower_value.startswith("udp://"):
                     value = value[6:].strip()
 
-                # 分组
-                if value == "#genre#":
-
-                    current_group = name
-                    continue
-
                 # 普通频道
                 channel = {
                     "id": name,
@@ -80,6 +94,14 @@ for filename in os.listdir(CHANNEL_DIR):
                 }
 
                 channels.append(channel)
+
+                # 生成 M3U 条目
+                logo_url = f"{LOGO_BASE_URL}/{name}.png"
+
+                m3u_lines.append(
+                    f'#EXTINF:-1 tvg-id="{name}" tvg-name="{name}" tvg-logo="{logo_url}" group-title="{current_group}",{name}'
+                )
+                m3u_lines.append(m3u_src)
 
             except Exception as e:
 
@@ -108,6 +130,14 @@ for filename in os.listdir(CHANNEL_DIR):
         )
 
     print(f"生成: {json_path}")
+
+    # 生成地区 m3u
+    with open(m3u_path, "w", encoding="utf-8") as f:
+
+        f.write("\n".join(m3u_lines))
+        f.write("\n")
+
+    print(f"生成: {m3u_path}")
 
 # 生成全局 version.json
 with open("version.json", "w", encoding="utf-8") as f:
