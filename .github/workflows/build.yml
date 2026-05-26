@@ -2,10 +2,6 @@ name: Build AliceTV Channels
 
 on:
   push:
-    paths:
-      - 'channels/**'
-      - 'build.py'
-      - '.github/workflows/**'
   workflow_dispatch:
 
 permissions:
@@ -28,8 +24,7 @@ jobs:
           python-version: '3.11'
 
       - name: Build JSON and M3U
-        run: |
-          python build.py
+        run: python build.py
 
       - name: Show changes
         run: |
