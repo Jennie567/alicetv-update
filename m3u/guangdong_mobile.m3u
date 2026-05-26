@@ -1,0 +1,369 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV1.png" group-title="央视+卫视",CCTV1
+239.10.0.114:1025
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV2.png" group-title="央视+卫视",CCTV2
+239.10.0.207:1025
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV3.png" group-title="央视+卫视",CCTV3
+239.10.0.101:1025
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV4.png" group-title="央视+卫视",CCTV4
+239.10.0.245:1025
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV5.png" group-title="央视+卫视",CCTV5
+239.10.0.102:1025
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV6.png" group-title="央视+卫视",CCTV6
+239.10.0.103:1025
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV7.png" group-title="央视+卫视",CCTV7
+239.10.0.208:1025
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV8.png" group-title="央视+卫视",CCTV8
+239.10.0.104:1025
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV9.png" group-title="央视+卫视",CCTV9
+239.10.0.209:1025
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV10.png" group-title="央视+卫视",CCTV10
+239.10.0.210:1025
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV11.png" group-title="央视+卫视",CCTV11
+239.11.0.24:1025
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV12.png" group-title="央视+卫视",CCTV12
+239.10.0.211:1025
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV13.png" group-title="央视+卫视",CCTV13
+239.10.0.198:1025
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV15.png" group-title="央视+卫视",CCTV15
+239.11.0.25:1025
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV14.png" group-title="央视+卫视",CCTV14
+239.10.0.212:1025
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV16.png" group-title="央视+卫视",CCTV16
+239.11.0.126:1025
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV17.png" group-title="央视+卫视",CCTV17
+239.10.0.244:1025
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV5+.png" group-title="央视+卫视",CCTV5+
+239.10.0.213:1025
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://alicetv-update.pages.dev/logos/广东卫视.png" group-title="央视+卫视",广东卫视
+239.10.0.111:1025
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://alicetv-update.pages.dev/logos/深圳卫视.png" group-title="央视+卫视",深圳卫视
+239.10.0.132:1025
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://alicetv-update.pages.dev/logos/湖南卫视.png" group-title="央视+卫视",湖南卫视
+239.10.0.115:1025
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://alicetv-update.pages.dev/logos/东方卫视.png" group-title="央视+卫视",东方卫视
+239.10.0.183:1025
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://alicetv-update.pages.dev/logos/江苏卫视.png" group-title="央视+卫视",江苏卫视
+239.10.0.180:1025
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://alicetv-update.pages.dev/logos/浙江卫视.png" group-title="央视+卫视",浙江卫视
+239.10.0.179:1025
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://alicetv-update.pages.dev/logos/北京卫视.png" group-title="央视+卫视",北京卫视
+239.10.0.131:1025
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://alicetv-update.pages.dev/logos/天津卫视.png" group-title="央视+卫视",天津卫视
+239.10.0.181:1025
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://alicetv-update.pages.dev/logos/山东卫视.png" group-title="央视+卫视",山东卫视
+239.10.0.56:1025
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://alicetv-update.pages.dev/logos/安徽卫视.png" group-title="央视+卫视",安徽卫视
+239.10.0.203:1025
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://alicetv-update.pages.dev/logos/湖北卫视.png" group-title="央视+卫视",湖北卫视
+239.10.0.134:1025
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://alicetv-update.pages.dev/logos/海南卫视.png" group-title="央视+卫视",海南卫视
+239.11.0.172:1025
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://alicetv-update.pages.dev/logos/四川卫视.png" group-title="央视+卫视",四川卫视
+239.10.0.204:1025
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://alicetv-update.pages.dev/logos/江西卫视.png" group-title="央视+卫视",江西卫视
+239.10.0.80:1025
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://alicetv-update.pages.dev/logos/河南卫视.png" group-title="央视+卫视",河南卫视
+239.11.0.94:1025
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://alicetv-update.pages.dev/logos/云南卫视.png" group-title="央视+卫视",云南卫视
+239.11.0.171:1025
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://alicetv-update.pages.dev/logos/辽宁卫视.png" group-title="央视+卫视",辽宁卫视
+239.10.0.185:1025
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://alicetv-update.pages.dev/logos/重庆卫视.png" group-title="央视+卫视",重庆卫视
+239.10.0.205:1025
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://alicetv-update.pages.dev/logos/贵州卫视.png" group-title="央视+卫视",贵州卫视
+239.10.0.222:1025
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://alicetv-update.pages.dev/logos/东南卫视.png" group-title="央视+卫视",东南卫视
+239.10.0.77:1025
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://alicetv-update.pages.dev/logos/广西卫视.png" group-title="央视+卫视",广西卫视
+239.10.0.246:1025
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://alicetv-update.pages.dev/logos/河北卫视.png" group-title="央视+卫视",河北卫视
+239.10.0.79:1025
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://alicetv-update.pages.dev/logos/吉林卫视.png" group-title="央视+卫视",吉林卫视
+239.10.0.81:1025
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://alicetv-update.pages.dev/logos/黑龙江卫视.png" group-title="央视+卫视",黑龙江卫视
+239.10.0.133:1025
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://alicetv-update.pages.dev/logos/陕西卫视.png" group-title="央视+卫视",陕西卫视
+239.10.0.161:1025
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://alicetv-update.pages.dev/logos/山西卫视.png" group-title="央视+卫视",山西卫视
+239.10.0.162:1025
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://alicetv-update.pages.dev/logos/内蒙古卫视.png" group-title="央视+卫视",内蒙古卫视
+239.10.0.163:1025
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://alicetv-update.pages.dev/logos/青海卫视.png" group-title="央视+卫视",青海卫视
+239.11.0.179:1025
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://alicetv-update.pages.dev/logos/宁夏卫视.png" group-title="央视+卫视",宁夏卫视
+239.11.0.199:1025
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://alicetv-update.pages.dev/logos/西藏卫视.png" group-title="央视+卫视",西藏卫视
+239.11.0.196:1025
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://alicetv-update.pages.dev/logos/新疆卫视.png" group-title="央视+卫视",新疆卫视
+239.11.0.197:1025
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://alicetv-update.pages.dev/logos/甘肃卫视.png" group-title="央视+卫视",甘肃卫视
+239.11.0.175:1025
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://alicetv-update.pages.dev/logos/兵团卫视.png" group-title="央视+卫视",兵团卫视
+239.11.0.198:1025
+#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://alicetv-update.pages.dev/logos/厦门卫视.png" group-title="央视+卫视",厦门卫视
+239.10.0.178:1025
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://alicetv-update.pages.dev/logos/三沙卫视.png" group-title="央视+卫视",三沙卫视
+239.11.0.177:1025
+#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://alicetv-update.pages.dev/logos/延边卫视.png" group-title="央视+卫视",延边卫视
+239.10.0.140:1025
+#EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://alicetv-update.pages.dev/logos/广东新闻.png" group-title="本地+精品",广东新闻
+239.10.0.199:1025
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://alicetv-update.pages.dev/logos/广东珠江.png" group-title="本地+精品",广东珠江
+239.10.0.63:1025
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://alicetv-update.pages.dev/logos/广东体育.png" group-title="本地+精品",广东体育
+239.10.0.47:1025
+#EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://alicetv-update.pages.dev/logos/广东民生.png" group-title="本地+精品",广东民生
+239.11.0.80:1025
+#EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://alicetv-update.pages.dev/logos/广东影视.png" group-title="本地+精品",广东影视
+239.11.0.79:1025
+#EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://alicetv-update.pages.dev/logos/广东经济科教.png" group-title="本地+精品",广东经济科教
+239.10.0.46:1025
+#EXTINF:-1 tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV世界地理.png" group-title="本地+精品",CCTV世界地理
+239.11.0.63:1025
+#EXTINF:-1 tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV兵器科技.png" group-title="本地+精品",CCTV兵器科技
+239.11.0.57:1025
+#EXTINF:-1 tvg-id="CCTV卫生健康" tvg-name="CCTV卫生健康" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV卫生健康.png" group-title="本地+精品",CCTV卫生健康
+239.11.0.185:1025
+#EXTINF:-1 tvg-id="CCTV女性时尚" tvg-name="CCTV女性时尚" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV女性时尚.png" group-title="本地+精品",CCTV女性时尚
+239.11.0.62:1025
+#EXTINF:-1 tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV第一剧场.png" group-title="本地+精品",CCTV第一剧场
+239.11.0.67:1025
+#EXTINF:-1 tvg-id="CCTV怀旧剧场" tvg-name="CCTV怀旧剧场" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV怀旧剧场.png" group-title="本地+精品",CCTV怀旧剧场
+239.11.0.64:1025
+#EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV风云剧场.png" group-title="本地+精品",CCTV风云剧场
+239.11.0.65:1025
+#EXTINF:-1 tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV风云音乐.png" group-title="本地+精品",CCTV风云音乐
+239.11.0.68:1025
+#EXTINF:-1 tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV风云足球.png" group-title="本地+精品",CCTV风云足球
+239.11.0.59:1025
+#EXTINF:-1 tvg-id="CCTV央视台球" tvg-name="CCTV央视台球" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV央视台球.png" group-title="本地+精品",CCTV央视台球
+239.11.0.60:1025
+#EXTINF:-1 tvg-id="CCTV高尔夫网球" tvg-name="CCTV高尔夫网球" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV高尔夫网球.png" group-title="本地+精品",CCTV高尔夫网球
+239.11.0.61:1025
+#EXTINF:-1 tvg-id="CCTV央视精品" tvg-name="CCTV央视精品" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV央视精品.png" group-title="本地+精品",CCTV央视精品
+239.11.0.66:1025
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://alicetv-update.pages.dev/logos/金鹰纪实.png" group-title="本地+精品",金鹰纪实
+239.10.0.206:1025
+#EXTINF:-1 tvg-id="爱体育" tvg-name="爱体育" tvg-logo="https://alicetv-update.pages.dev/logos/爱体育.png" group-title="本地+精品",爱体育
+239.10.0.218:1025
+#EXTINF:-1 tvg-id="经典电影" tvg-name="经典电影" tvg-logo="https://alicetv-update.pages.dev/logos/经典电影.png" group-title="本地+精品",经典电影
+239.10.0.13:1025
+#EXTINF:-1 tvg-id="爱电影" tvg-name="爱电影" tvg-logo="https://alicetv-update.pages.dev/logos/爱电影.png" group-title="本地+精品",爱电影
+239.10.0.12:1025
+#EXTINF:-1 tvg-id="爱大剧" tvg-name="爱大剧" tvg-logo="https://alicetv-update.pages.dev/logos/爱大剧.png" group-title="本地+精品",爱大剧
+239.10.0.14:1025
+#EXTINF:-1 tvg-id="爱综艺" tvg-name="爱综艺" tvg-logo="https://alicetv-update.pages.dev/logos/爱综艺.png" group-title="本地+精品",爱综艺
+239.10.0.16:1025
+#EXTINF:-1 tvg-id="热播剧场" tvg-name="热播剧场" tvg-logo="https://alicetv-update.pages.dev/logos/热播剧场.png" group-title="本地+精品",热播剧场
+239.10.0.15:1025
+#EXTINF:-1 tvg-id="魅力时尚" tvg-name="魅力时尚" tvg-logo="https://alicetv-update.pages.dev/logos/魅力时尚.png" group-title="本地+精品",魅力时尚
+239.10.0.19:1025
+#EXTINF:-1 tvg-id="IPTV谍战剧场" tvg-name="IPTV谍战剧场" tvg-logo="https://alicetv-update.pages.dev/logos/IPTV谍战剧场.png" group-title="本地+精品",IPTV谍战剧场
+239.10.0.8:1025
+#EXTINF:-1 tvg-id="IPTV相声小品" tvg-name="IPTV相声小品" tvg-logo="https://alicetv-update.pages.dev/logos/IPTV相声小品.png" group-title="本地+精品",IPTV相声小品
+239.10.0.9:1025
+#EXTINF:-1 tvg-id="IPTV野外" tvg-name="IPTV野外" tvg-logo="https://alicetv-update.pages.dev/logos/IPTV野外.png" group-title="本地+精品",IPTV野外
+239.10.0.10:1025
+#EXTINF:-1 tvg-id="IPTV法治" tvg-name="IPTV法治" tvg-logo="https://alicetv-update.pages.dev/logos/IPTV法治.png" group-title="本地+精品",IPTV法治
+239.10.0.11:1025
+#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://alicetv-update.pages.dev/logos/睛彩广场舞.png" group-title="本地+精品",睛彩广场舞
+239.11.0.184:1025
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://alicetv-update.pages.dev/logos/睛彩竞技.png" group-title="本地+精品",睛彩竞技
+239.11.0.183:1025
+#EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://alicetv-update.pages.dev/logos/广东少儿.png" group-title="本地+精品",广东少儿
+239.11.0.81:1025
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://alicetv-update.pages.dev/logos/嘉佳卡通.png" group-title="本地+精品",嘉佳卡通
+239.10.0.200:1025
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://alicetv-update.pages.dev/logos/金鹰卡通.png" group-title="本地+精品",金鹰卡通
+239.11.0.125:1025
+#EXTINF:-1 tvg-id="少儿动画" tvg-name="少儿动画" tvg-logo="https://alicetv-update.pages.dev/logos/少儿动画.png" group-title="本地+精品",少儿动画
+239.10.0.18:1025
+#EXTINF:-1 tvg-id="现代教育" tvg-name="现代教育" tvg-logo="https://alicetv-update.pages.dev/logos/现代教育.png" group-title="本地+精品",现代教育
+239.11.0.181:1025
+#EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://alicetv-update.pages.dev/logos/早期教育.png" group-title="本地+精品",早期教育
+239.11.0.100:1025
+#EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="https://alicetv-update.pages.dev/logos/卡酷动画.png" group-title="本地+精品",卡酷动画
+239.10.0.172:1025
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://alicetv-update.pages.dev/logos/CETV1.png" group-title="本地+精品",CETV1
+239.10.0.223:1025
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://alicetv-update.pages.dev/logos/CETV2.png" group-title="本地+精品",CETV2
+239.11.0.35:1025
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://alicetv-update.pages.dev/logos/CETV4.png" group-title="本地+精品",CETV4
+239.11.0.176:1025
+#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://alicetv-update.pages.dev/logos/山东教育.png" group-title="本地+精品",山东教育
+239.10.0.176:1025
+#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="https://alicetv-update.pages.dev/logos/中学生.png" group-title="本地+精品",中学生
+239.11.0.173:1025
+#EXTINF:-1 tvg-id="书画" tvg-name="书画" tvg-logo="https://alicetv-update.pages.dev/logos/书画.png" group-title="本地+精品",书画
+239.11.0.174:1025
+#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://alicetv-update.pages.dev/logos/发现之旅.png" group-title="本地+精品",发现之旅
+239.11.0.182:1025
+#EXTINF:-1 tvg-id="国学频道" tvg-name="国学频道" tvg-logo="https://alicetv-update.pages.dev/logos/国学频道.png" group-title="本地+精品",国学频道
+239.10.0.38:1025
+#EXTINF:-1 tvg-id="汽摩" tvg-name="汽摩" tvg-logo="https://alicetv-update.pages.dev/logos/汽摩.png" group-title="本地+精品",汽摩
+239.10.0.232:1025
+#EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://alicetv-update.pages.dev/logos/环球奇观.png" group-title="本地+精品",环球奇观
+239.10.0.36:1025
+#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="https://alicetv-update.pages.dev/logos/老故事.png" group-title="本地+精品",老故事
+239.10.0.33:1025
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://alicetv-update.pages.dev/logos/CGTN.png" group-title="本地+精品",CGTN
+239.11.0.103:1025
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://alicetv-update.pages.dev/logos/CGTN纪录.png" group-title="本地+精品",CGTN纪录
+239.11.0.104:1025
+#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV4欧洲.png" group-title="本地+精品",CCTV4欧洲
+239.11.0.101:1025
+#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV4美洲.png" group-title="本地+精品",CCTV4美洲
+239.11.0.102:1025
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="https://alicetv-update.pages.dev/logos/广东卫视4K.png" group-title="4K频道",广东卫视4K
+239.10.0.45:1025
+#EXTINF:-1 tvg-id="深圳卫视4k" tvg-name="深圳卫视4k" tvg-logo="https://alicetv-update.pages.dev/logos/深圳卫视4k.png" group-title="4K频道",深圳卫视4k
+239.11.0.195:1025
+#EXTINF:-1 tvg-id="湖南卫视4k" tvg-name="湖南卫视4k" tvg-logo="https://alicetv-update.pages.dev/logos/湖南卫视4k.png" group-title="4K频道",湖南卫视4k
+239.11.0.200:1025
+#EXTINF:-1 tvg-id="东方卫视4k" tvg-name="东方卫视4k" tvg-logo="https://alicetv-update.pages.dev/logos/东方卫视4k.png" group-title="4K频道",东方卫视4k
+239.11.0.203:1025
+#EXTINF:-1 tvg-id="江苏卫视4k" tvg-name="江苏卫视4k" tvg-logo="https://alicetv-update.pages.dev/logos/江苏卫视4k.png" group-title="4K频道",江苏卫视4k
+239.11.0.201:1025
+#EXTINF:-1 tvg-id="浙江卫视4k" tvg-name="浙江卫视4k" tvg-logo="https://alicetv-update.pages.dev/logos/浙江卫视4k.png" group-title="4K频道",浙江卫视4k
+239.11.0.202:1025
+#EXTINF:-1 tvg-id="四川卫视4k" tvg-name="四川卫视4k" tvg-logo="https://alicetv-update.pages.dev/logos/四川卫视4k.png" group-title="4K频道",四川卫视4k
+239.11.0.204:1025
+#EXTINF:-1 tvg-id="山东卫视4k" tvg-name="山东卫视4k" tvg-logo="https://alicetv-update.pages.dev/logos/山东卫视4k.png" group-title="4K频道",山东卫视4k
+239.11.0.205:1025
+#EXTINF:-1 tvg-id="咪咕-高清赛事27" tvg-name="咪咕-高清赛事27" tvg-logo="https://alicetv-update.pages.dev/logos/咪咕-高清赛事27.png" group-title="咪咕系列",咪咕-高清赛事27
+239.11.0.22:1025
+#EXTINF:-1 tvg-id="咪咕-高清赛事26" tvg-name="咪咕-高清赛事26" tvg-logo="https://alicetv-update.pages.dev/logos/咪咕-高清赛事26.png" group-title="咪咕系列",咪咕-高清赛事26
+239.11.0.21:1025
+#EXTINF:-1 tvg-id="咪咕-高清赛事25" tvg-name="咪咕-高清赛事25" tvg-logo="https://alicetv-update.pages.dev/logos/咪咕-高清赛事25.png" group-title="咪咕系列",咪咕-高清赛事25
+239.11.0.20:1025
+#EXTINF:-1 tvg-id="咪咕-高清赛事24" tvg-name="咪咕-高清赛事24" tvg-logo="https://alicetv-update.pages.dev/logos/咪咕-高清赛事24.png" group-title="咪咕系列",咪咕-高清赛事24
+239.11.0.19:1025
+#EXTINF:-1 tvg-id="咪咕-高清赛事23" tvg-name="咪咕-高清赛事23" tvg-logo="https://alicetv-update.pages.dev/logos/咪咕-高清赛事23.png" group-title="咪咕系列",咪咕-高清赛事23
+239.11.0.18:1025
+#EXTINF:-1 tvg-id="咪咕-高清赛事19" tvg-name="咪咕-高清赛事19" tvg-logo="https://alicetv-update.pages.dev/logos/咪咕-高清赛事19.png" group-title="咪咕系列",咪咕-高清赛事19
+239.11.0.10:1025
+#EXTINF:-1 tvg-id="咪咕-高清赛事18" tvg-name="咪咕-高清赛事18" tvg-logo="https://alicetv-update.pages.dev/logos/咪咕-高清赛事18.png" group-title="咪咕系列",咪咕-高清赛事18
+239.11.0.9:1025
+#EXTINF:-1 tvg-id="咪咕-高清赛事000" tvg-name="咪咕-高清赛事000" tvg-logo="https://alicetv-update.pages.dev/logos/咪咕-高清赛事000.png" group-title="咪咕系列",咪咕-高清赛事000
+239.11.0.14:1025
+#EXTINF:-1 tvg-id="咪咕-高清赛事22" tvg-name="咪咕-高清赛事22" tvg-logo="https://alicetv-update.pages.dev/logos/咪咕-高清赛事22.png" group-title="咪咕系列",咪咕-高清赛事22
+239.11.0.13:1025
+#EXTINF:-1 tvg-id="咪咕-高清赛事21" tvg-name="咪咕-高清赛事21" tvg-logo="https://alicetv-update.pages.dev/logos/咪咕-高清赛事21.png" group-title="咪咕系列",咪咕-高清赛事21
+239.11.0.12:1025
+#EXTINF:-1 tvg-id="咪咕-高清赛事20" tvg-name="咪咕-高清赛事20" tvg-logo="https://alicetv-update.pages.dev/logos/咪咕-高清赛事20.png" group-title="咪咕系列",咪咕-高清赛事20
+239.11.0.11:1025
+#EXTINF:-1 tvg-id="咪咕-高清赛事17" tvg-name="咪咕-高清赛事17" tvg-logo="https://alicetv-update.pages.dev/logos/咪咕-高清赛事17.png" group-title="咪咕系列",咪咕-高清赛事17
+239.11.0.8:1025
+#EXTINF:-1 tvg-id="咪咕-高清赛事16" tvg-name="咪咕-高清赛事16" tvg-logo="https://alicetv-update.pages.dev/logos/咪咕-高清赛事16.png" group-title="咪咕系列",咪咕-高清赛事16
+239.11.0.7:1025
+#EXTINF:-1 tvg-id="咪咕-高清赛事15" tvg-name="咪咕-高清赛事15" tvg-logo="https://alicetv-update.pages.dev/logos/咪咕-高清赛事15.png" group-title="咪咕系列",咪咕-高清赛事15
+239.11.0.6:1025
+#EXTINF:-1 tvg-id="咪咕-高清赛事14" tvg-name="咪咕-高清赛事14" tvg-logo="https://alicetv-update.pages.dev/logos/咪咕-高清赛事14.png" group-title="咪咕系列",咪咕-高清赛事14
+239.11.0.5:1025
+#EXTINF:-1 tvg-id="咪咕-高清赛事13" tvg-name="咪咕-高清赛事13" tvg-logo="https://alicetv-update.pages.dev/logos/咪咕-高清赛事13.png" group-title="咪咕系列",咪咕-高清赛事13
+239.11.0.4:1025
+#EXTINF:-1 tvg-id="咪咕-高清赛事12" tvg-name="咪咕-高清赛事12" tvg-logo="https://alicetv-update.pages.dev/logos/咪咕-高清赛事12.png" group-title="咪咕系列",咪咕-高清赛事12
+239.11.0.3:1025
+#EXTINF:-1 tvg-id="咪咕-高清赛事11" tvg-name="咪咕-高清赛事11" tvg-logo="https://alicetv-update.pages.dev/logos/咪咕-高清赛事11.png" group-title="咪咕系列",咪咕-高清赛事11
+239.11.0.2:1025
+#EXTINF:-1 tvg-id="咪咕-高清赛事10" tvg-name="咪咕-高清赛事10" tvg-logo="https://alicetv-update.pages.dev/logos/咪咕-高清赛事10.png" group-title="咪咕系列",咪咕-高清赛事10
+239.11.0.1:1025
+#EXTINF:-1 tvg-id="咪咕-高清赛事9" tvg-name="咪咕-高清赛事9" tvg-logo="https://alicetv-update.pages.dev/logos/咪咕-高清赛事9.png" group-title="咪咕系列",咪咕-高清赛事9
+239.10.0.252:1025
+#EXTINF:-1 tvg-id="咪咕-高清赛事8" tvg-name="咪咕-高清赛事8" tvg-logo="https://alicetv-update.pages.dev/logos/咪咕-高清赛事8.png" group-title="咪咕系列",咪咕-高清赛事8
+239.10.0.251:1025
+#EXTINF:-1 tvg-id="咪咕-高清赛事7" tvg-name="咪咕-高清赛事7" tvg-logo="https://alicetv-update.pages.dev/logos/咪咕-高清赛事7.png" group-title="咪咕系列",咪咕-高清赛事7
+239.10.0.250:1025
+#EXTINF:-1 tvg-id="咪咕-高清赛事6" tvg-name="咪咕-高清赛事6" tvg-logo="https://alicetv-update.pages.dev/logos/咪咕-高清赛事6.png" group-title="咪咕系列",咪咕-高清赛事6
+239.10.0.249:1025
+#EXTINF:-1 tvg-id="咪咕-高清赛事5" tvg-name="咪咕-高清赛事5" tvg-logo="https://alicetv-update.pages.dev/logos/咪咕-高清赛事5.png" group-title="咪咕系列",咪咕-高清赛事5
+239.10.0.248:1025
+#EXTINF:-1 tvg-id="咪咕-高清赛事4" tvg-name="咪咕-高清赛事4" tvg-logo="https://alicetv-update.pages.dev/logos/咪咕-高清赛事4.png" group-title="咪咕系列",咪咕-高清赛事4
+239.10.0.247:1025
+#EXTINF:-1 tvg-id="咪咕-高清赛事1" tvg-name="咪咕-高清赛事1" tvg-logo="https://alicetv-update.pages.dev/logos/咪咕-高清赛事1.png" group-title="咪咕系列",咪咕-高清赛事1
+239.10.0.87:1025
+#EXTINF:-1 tvg-id="咪咕-高清赛事2" tvg-name="咪咕-高清赛事2" tvg-logo="https://alicetv-update.pages.dev/logos/咪咕-高清赛事2.png" group-title="咪咕系列",咪咕-高清赛事2
+239.10.0.88:1025
+#EXTINF:-1 tvg-id="咪咕-高清赛事3" tvg-name="咪咕-高清赛事3" tvg-logo="https://alicetv-update.pages.dev/logos/咪咕-高清赛事3.png" group-title="咪咕系列",咪咕-高清赛事3
+239.10.0.89:1025
+#EXTINF:-1 tvg-id="广东岭南戏曲" tvg-name="广东岭南戏曲" tvg-logo="https://alicetv-update.pages.dev/logos/广东岭南戏曲.png" group-title="城市频道",广东岭南戏曲
+239.11.0.180:1025
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://alicetv-update.pages.dev/logos/大湾区卫视.png" group-title="城市频道",大湾区卫视
+239.11.0.78:1025
+#EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://alicetv-update.pages.dev/logos/广州新闻.png" group-title="城市频道",广州新闻
+239.11.0.139:1025
+#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://alicetv-update.pages.dev/logos/广州综合.png" group-title="城市频道",广州综合
+239.11.0.138:1025
+#EXTINF:-1 tvg-id="东莞新闻综合" tvg-name="东莞新闻综合" tvg-logo="https://alicetv-update.pages.dev/logos/东莞新闻综合.png" group-title="城市频道",东莞新闻综合
+239.21.0.137:3892
+#EXTINF:-1 tvg-id="东莞生活资讯" tvg-name="东莞生活资讯" tvg-logo="https://alicetv-update.pages.dev/logos/东莞生活资讯.png" group-title="城市频道",东莞生活资讯
+239.21.0.138:3896
+#EXTINF:-1 tvg-id="中山综合" tvg-name="中山综合" tvg-logo="https://alicetv-update.pages.dev/logos/中山综合.png" group-title="城市频道",中山综合
+239.11.0.122:1025
+#EXTINF:-1 tvg-id="云浮文旅" tvg-name="云浮文旅" tvg-logo="https://alicetv-update.pages.dev/logos/云浮文旅.png" group-title="城市频道",云浮文旅
+239.11.0.97:1025
+#EXTINF:-1 tvg-id="云浮综合" tvg-name="云浮综合" tvg-logo="https://alicetv-update.pages.dev/logos/云浮综合.png" group-title="城市频道",云浮综合
+239.11.0.96:1025
+#EXTINF:-1 tvg-id="佛山城市生活" tvg-name="佛山城市生活" tvg-logo="https://alicetv-update.pages.dev/logos/佛山城市生活.png" group-title="城市频道",佛山城市生活
+239.11.0.114:1025
+#EXTINF:-1 tvg-id="佛山综合" tvg-name="佛山综合" tvg-logo="https://alicetv-update.pages.dev/logos/佛山综合.png" group-title="城市频道",佛山综合
+239.11.0.118:1025
+#EXTINF:-1 tvg-id="南海频道" tvg-name="南海频道" tvg-logo="https://alicetv-update.pages.dev/logos/南海频道.png" group-title="城市频道",南海频道
+239.11.0.115:1025
+#EXTINF:-1 tvg-id="惠州综合" tvg-name="惠州综合" tvg-logo="https://alicetv-update.pages.dev/logos/惠州综合.png" group-title="城市频道",惠州综合
+239.21.0.27:3448
+#EXTINF:-1 tvg-id="惠州都市生活" tvg-name="惠州都市生活" tvg-logo="https://alicetv-update.pages.dev/logos/惠州都市生活.png" group-title="城市频道",惠州都市生活
+239.21.0.28:3452
+#EXTINF:-1 tvg-id="揭阳文化生活" tvg-name="揭阳文化生活" tvg-logo="https://alicetv-update.pages.dev/logos/揭阳文化生活.png" group-title="城市频道",揭阳文化生活
+239.21.0.92:3708
+#EXTINF:-1 tvg-id="揭阳综合" tvg-name="揭阳综合" tvg-logo="https://alicetv-update.pages.dev/logos/揭阳综合.png" group-title="城市频道",揭阳综合
+239.21.0.91:3704
+#EXTINF:-1 tvg-id="梅州客家生活" tvg-name="梅州客家生活" tvg-logo="https://alicetv-update.pages.dev/logos/梅州客家生活.png" group-title="城市频道",梅州客家生活
+239.21.0.150:3944
+#EXTINF:-1 tvg-id="梅州综合" tvg-name="梅州综合" tvg-logo="https://alicetv-update.pages.dev/logos/梅州综合.png" group-title="城市频道",梅州综合
+239.21.0.149:3940
+#EXTINF:-1 tvg-id="汕头新闻综合" tvg-name="汕头新闻综合" tvg-logo="https://alicetv-update.pages.dev/logos/汕头新闻综合.png" group-title="城市频道",汕头新闻综合
+239.21.0.101:3744
+#EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" tvg-logo="https://alicetv-update.pages.dev/logos/汕头经济生活.png" group-title="城市频道",汕头经济生活
+239.21.0.102:3748
+#EXTINF:-1 tvg-id="汕尾文化生活" tvg-name="汕尾文化生活" tvg-logo="https://alicetv-update.pages.dev/logos/汕尾文化生活.png" group-title="城市频道",汕尾文化生活
+239.21.0.90:3700
+#EXTINF:-1 tvg-id="汕尾新闻综合" tvg-name="汕尾新闻综合" tvg-logo="https://alicetv-update.pages.dev/logos/汕尾新闻综合.png" group-title="城市频道",汕尾新闻综合
+239.21.0.89:3696
+#EXTINF:-1 tvg-id="江门综合" tvg-name="江门综合" tvg-logo="https://alicetv-update.pages.dev/logos/江门综合.png" group-title="城市频道",江门综合
+239.10.0.219:1025
+#EXTINF:-1 tvg-id="河源公共" tvg-name="河源公共" tvg-logo="https://alicetv-update.pages.dev/logos/河源公共.png" group-title="城市频道",河源公共
+239.21.0.49:3536
+#EXTINF:-1 tvg-id="河源新闻综合" tvg-name="河源新闻综合" tvg-logo="https://alicetv-update.pages.dev/logos/河源新闻综合.png" group-title="城市频道",河源新闻综合
+239.21.0.48:3532
+#EXTINF:-1 tvg-id="清远综合" tvg-name="清远综合" tvg-logo="https://alicetv-update.pages.dev/logos/清远综合.png" group-title="城市频道",清远综合
+239.11.0.74:1025
+#EXTINF:-1 tvg-id="湛江公共" tvg-name="湛江公共" tvg-logo="https://alicetv-update.pages.dev/logos/湛江公共.png" group-title="城市频道",湛江公共
+239.10.0.254:1025
+#EXTINF:-1 tvg-id="湛江新闻综合" tvg-name="湛江新闻综合" tvg-logo="https://alicetv-update.pages.dev/logos/湛江新闻综合.png" group-title="城市频道",湛江新闻综合
+239.10.0.253:1025
+#EXTINF:-1 tvg-id="潮州民生" tvg-name="潮州民生" tvg-logo="https://alicetv-update.pages.dev/logos/潮州民生.png" group-title="城市频道",潮州民生
+239.21.0.146:3928
+#EXTINF:-1 tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="https://alicetv-update.pages.dev/logos/潮州综合.png" group-title="城市频道",潮州综合
+239.21.0.145:3924
+#EXTINF:-1 tvg-id="珠海新闻综合" tvg-name="珠海新闻综合" tvg-logo="https://alicetv-update.pages.dev/logos/珠海新闻综合.png" group-title="城市频道",珠海新闻综合
+239.10.0.242:1025
+#EXTINF:-1 tvg-id="肇庆新闻综合" tvg-name="肇庆新闻综合" tvg-logo="https://alicetv-update.pages.dev/logos/肇庆新闻综合.png" group-title="城市频道",肇庆新闻综合
+239.11.0.53:1025
+#EXTINF:-1 tvg-id="肇庆生活服务" tvg-name="肇庆生活服务" tvg-logo="https://alicetv-update.pages.dev/logos/肇庆生活服务.png" group-title="城市频道",肇庆生活服务
+239.11.0.54:1025
+#EXTINF:-1 tvg-id="茂名文化生活" tvg-name="茂名文化生活" tvg-logo="https://alicetv-update.pages.dev/logos/茂名文化生活.png" group-title="城市频道",茂名文化生活
+239.11.0.99:1025
+#EXTINF:-1 tvg-id="茂名综合" tvg-name="茂名综合" tvg-logo="https://alicetv-update.pages.dev/logos/茂名综合.png" group-title="城市频道",茂名综合
+239.10.0.238:1025
+#EXTINF:-1 tvg-id="阳江文化生活" tvg-name="阳江文化生活" tvg-logo="https://alicetv-update.pages.dev/logos/阳江文化生活.png" group-title="城市频道",阳江文化生活
+239.11.0.190:1025
+#EXTINF:-1 tvg-id="阳江综合" tvg-name="阳江综合" tvg-logo="https://alicetv-update.pages.dev/logos/阳江综合.png" group-title="城市频道",阳江综合
+239.11.0.189:1025
+#EXTINF:-1 tvg-id="韶关综合" tvg-name="韶关综合" tvg-logo="https://alicetv-update.pages.dev/logos/韶关综合.png" group-title="城市频道",韶关综合
+239.11.0.84:1025
+#EXTINF:-1 tvg-id="顺德频道" tvg-name="顺德频道" tvg-logo="https://alicetv-update.pages.dev/logos/顺德频道.png" group-title="城市频道",顺德频道
+239.11.0.116:1025
+#EXTINF:-1 tvg-id="香山文化" tvg-name="香山文化" tvg-logo="https://alicetv-update.pages.dev/logos/香山文化.png" group-title="城市频道",香山文化
+239.11.0.123:1025
