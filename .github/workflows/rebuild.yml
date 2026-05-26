@@ -4,6 +4,11 @@ on:
   push:
     branches:
       - main
+    paths:
+      - 'channels/**'
+      - 'build.py'
+      - '_worker.js'
+      - '.github/workflows/rebuild.yml'
   workflow_dispatch:
 
 permissions:
@@ -39,11 +44,15 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+
           git add -A templates m3u version.json
+
+          git status
 
           if git diff --cached --quiet; then
             echo "No generated changes to commit"
           else
             git commit -m "Auto update channels"
-            git push origin main
+            git push origin HEAD:main
           fi
