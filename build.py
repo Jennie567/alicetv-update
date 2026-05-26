@@ -65,8 +65,13 @@ for filename in os.listdir(CHANNEL_DIR):
                 value = value.strip()
 
                 # 分组
-                if value == "#genre#":
+                # 兼容：
+                # 央视-卫视,#genre#
+                # 央视-卫视,udp://#genre#
+                # 央视-卫视,rtp://#genre#
+                lower_value = value.lower()
 
+                if lower_value in ("#genre#", "udp://#genre#", "rtp://#genre#"):
                     current_group = name
                     continue
 
@@ -76,8 +81,6 @@ for filename in os.listdir(CHANNEL_DIR):
                 # 兼容旧版 AliceTV：
                 # GitHub txt 可以写 rtp:// 或 udp://
                 # 但生成 templates/*.json 时自动去掉协议头
-                lower_value = value.lower()
-
                 if lower_value.startswith("rtp://"):
                     value = value[6:].strip()
 
