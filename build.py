@@ -64,14 +64,11 @@ for filename in os.listdir(CHANNEL_DIR):
                 name = name.strip()
                 value = value.strip()
 
-                # 分组
-                # 兼容：
-                # 央视-卫视,#genre#
-                # 央视-卫视,udp://#genre#
-                # 央视-卫视,rtp://#genre#
                 lower_value = value.lower()
 
-                if lower_value in ("#genre#", "udp://#genre#", "rtp://#genre#"):
+                # 分组
+                if value == "#genre#":
+
                     current_group = name
                     continue
 
