@@ -75,6 +75,8 @@ for filename in os.listdir(CHANNEL_DIR):
                 lower_value = value.lower()
 
                 # 分组
+                # 标准写法：
+                # 央视-卫视,#genre#
                 if value == "#genre#":
 
                     current_group = name
@@ -92,7 +94,7 @@ for filename in os.listdir(CHANNEL_DIR):
                 elif lower_value.startswith("udp://"):
                     value = value[6:].strip()
 
-                # 普通频道
+                # 普通频道，保持 AliceTV 盒子 JSON 结构不变
                 channel = {
                     "id": name,
                     "name": name,
@@ -106,15 +108,30 @@ for filename in os.listdir(CHANNEL_DIR):
                 # 生成 M3U 条目
                 logo_url = f"{LOGO_BASE_URL}/{name}.png"
 
-                m3u_lines.append(
-                    f'#EXTINF:-1 tvg-id="{name}" tvg-name="{name}" tvg-logo="{logo_url}" group-title="{current_group}",{name}'
-                )
-                m3u_lines.append(m3u_src)
+                # APTV 回看参数：
+                # 第三列 playback_src 只写入 m3u，不写入 templates/*.json
+                catchup_attrs = ""
 
-                # M3U 回看地址：
-                # 只写进 m3u，不写进 templates/*.json，不影响 AliceTV 盒子
                 if playback_src:
-                    m3u_lines.append(f"#{playback_src}")
+
+                    if "?" in playback_src:
+                        catchup_source = (
+                            f'{playback_src}&playseek=${{(b)yyyyMMddHHmmss}}-${{(e)yyyyMMddHHmmss}}'
+                        )
+                    else:
+                        catchup_source = (
+                            f'{playback_src}?playseek=${{(b)yyyyMMddHHmmss}}-${{(e)yyyyMMddHHmmss}}'
+                        )
+
+                    catchup_attrs = (
+                        f' catchup="default" catchup-source="{catchup_source}"'
+                    )
+
+                m3u_lines.append(
+                    f'#EXTINF:-1 tvg-id="{name}" tvg-name="{name}" tvg-logo="{logo_url}" group-title="{current_group}"{catchup_attrs},{name}'
+                )
+
+                m3u_lines.append(m3u_src)
 
             except Exception as e:
 
