@@ -22,7 +22,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          persist-credentials: true
+          token: ${{ github.token }}
+          persist-credentials: false
           fetch-depth: 0
 
       - name: Setup Python
@@ -40,11 +41,11 @@ jobs:
           git diff --stat
 
       - name: Commit generated files
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
 
           git add -A templates m3u version.json
 
@@ -54,5 +55,5 @@ jobs:
             echo "No generated changes to commit"
           else
             git commit -m "Auto update channels"
-            git push origin HEAD:main
+            git push "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main
           fi
