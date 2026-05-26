@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV1.png" group-title="央视+卫视",CCTV1
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV1.png" group-title="央视+卫视" catchup="default" catchup-source="rtsp://10.11.43.21/PLTV/88888912/224/3221226446/10000100000000060000000000870185_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV1
 udp://239.125.2.66:4120
-#rtsp://10.11.43.21/PLTV/88888912/224/3221226446/10000100000000060000000000870185_0.smil
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV2.png" group-title="央视+卫视",CCTV2
 udp://239.125.2.65:4120
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://alicetv-update.pages.dev/logos/CCTV3.png" group-title="央视+卫视",CCTV3
