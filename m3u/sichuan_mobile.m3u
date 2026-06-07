@@ -1,0 +1,401 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV1.png" group-title="央视+卫视",CCTV1
+rtp://239.11.0.65:5140
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV2.png" group-title="央视+卫视",CCTV2
+rtp://239.11.0.108:5140
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV3.png" group-title="央视+卫视",CCTV3
+rtp://239.11.0.101:5140
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV4.png" group-title="央视+卫视",CCTV4
+rtp://239.11.0.109:5140
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV5.png" group-title="央视+卫视",CCTV5
+rtp://239.11.0.100:5140
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV5+.png" group-title="央视+卫视",CCTV5+
+rtp://239.11.0.241:5140
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV6.png" group-title="央视+卫视",CCTV6
+rtp://239.11.0.102:5140
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV7.png" group-title="央视+卫视",CCTV7
+rtp://239.11.0.110:5140
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV8.png" group-title="央视+卫视",CCTV8
+rtp://239.11.0.103:5140
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV9.png" group-title="央视+卫视",CCTV9
+rtp://239.11.0.111:5140
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV10.png" group-title="央视+卫视",CCTV10
+rtp://239.11.0.112:5140
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV11.png" group-title="央视+卫视",CCTV11
+rtp://239.11.0.22:5140
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV12.png" group-title="央视+卫视",CCTV12
+rtp://239.11.0.113:5140
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV13.png" group-title="央视+卫视",CCTV13
+rtp://239.11.0.24:5140
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV14.png" group-title="央视+卫视",CCTV14
+rtp://239.11.0.114:5140
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV15.png" group-title="央视+卫视",CCTV15
+rtp://239.11.0.26:5140
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV16.png" group-title="央视+卫视",CCTV16
+rtp://239.11.0.67:5140
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV17.png" group-title="央视+卫视",CCTV17
+rtp://239.11.0.107:5140
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/四川卫视.png" group-title="央视+卫视",四川卫视
+rtp://239.11.0.78:5140
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/湖南卫视.png" group-title="央视+卫视",湖南卫视
+rtp://239.11.0.119:5140
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/东方卫视.png" group-title="央视+卫视",东方卫视
+rtp://239.11.0.68:5140
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/浙江卫视.png" group-title="央视+卫视",浙江卫视
+rtp://239.11.0.70:5140
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/江苏卫视.png" group-title="央视+卫视",江苏卫视
+rtp://239.11.0.76:5140
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/北京卫视.png" group-title="央视+卫视",北京卫视
+rtp://239.11.0.121:5140
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/天津卫视.png" group-title="央视+卫视",天津卫视
+rtp://239.11.0.123:5140
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/广东卫视.png" group-title="央视+卫视",广东卫视
+rtp://239.11.0.115:5140
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/深圳卫视.png" group-title="央视+卫视",深圳卫视
+rtp://239.11.0.71:5140
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/重庆卫视.png" group-title="央视+卫视",重庆卫视
+rtp://239.11.0.116:5140
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/海南卫视.png" group-title="央视+卫视",海南卫视
+rtp://239.11.0.193:5140
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/辽宁卫视.png" group-title="央视+卫视",辽宁卫视
+rtp://239.11.0.118:5140
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/东南卫视.png" group-title="央视+卫视",东南卫视
+rtp://239.11.0.41:5140
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/江西卫视.png" group-title="央视+卫视",江西卫视
+rtp://239.11.0.42:5140
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/广西卫视.png" group-title="央视+卫视",广西卫视
+rtp://239.11.0.48:5140
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/河北卫视.png" group-title="央视+卫视",河北卫视
+rtp://239.11.0.31:5140
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/山西卫视.png" group-title="央视+卫视",山西卫视
+rtp://239.11.0.32:5140
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/陕西卫视.png" group-title="央视+卫视",陕西卫视
+rtp://239.11.0.54:5140
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/贵州卫视.png" group-title="央视+卫视",贵州卫视
+rtp://239.11.0.51:5140
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/湖北卫视.png" group-title="央视+卫视",湖北卫视
+rtp://239.11.0.74:5140
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/青海卫视.png" group-title="央视+卫视",青海卫视
+rtp://239.11.0.56:5140
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/河南卫视.png" group-title="央视+卫视",河南卫视
+rtp://239.11.0.44:5140
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/山东卫视.png" group-title="央视+卫视",山东卫视
+rtp://239.11.0.73:5140
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/安徽卫视.png" group-title="央视+卫视",安徽卫视
+rtp://239.11.0.117:5140
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/宁夏卫视.png" group-title="央视+卫视",宁夏卫视
+rtp://239.11.0.57:5140
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/甘肃卫视.png" group-title="央视+卫视",甘肃卫视
+rtp://239.11.0.55:5140
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/西藏卫视.png" group-title="央视+卫视",西藏卫视
+rtp://239.11.0.53:5140
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古卫视.png" group-title="央视+卫视",内蒙古卫视
+rtp://239.11.0.33:5140
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/吉林卫视.png" group-title="央视+卫视",吉林卫视
+rtp://239.11.0.35:5140
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/新疆卫视.png" group-title="央视+卫视",新疆卫视
+rtp://239.11.0.58:5140
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/兵团卫视.png" group-title="央视+卫视",兵团卫视
+rtp://239.11.0.204:5140
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/云南卫视.png" group-title="央视+卫视",云南卫视
+rtp://239.11.0.52:5140
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/黑龙江卫视.png" group-title="央视+卫视",黑龙江卫视
+rtp://239.11.0.36:5140
+#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/延边卫视.png" group-title="央视+卫视",延边卫视
+rtp://239.11.0.206:5140
+#EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/安多卫视.png" group-title="央视+卫视",安多卫视
+rtp://239.11.0.124:5140
+#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/厦门卫视.png" group-title="央视+卫视",厦门卫视
+rtp://239.11.0.83:5140
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/三沙卫视.png" group-title="央视+卫视",三沙卫视
+rtp://239.11.0.84:5140
+#EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/康巴卫视.png" group-title="央视+卫视",康巴卫视
+rtp://239.11.0.10:5140
+#EXTINF:-1 tvg-id="四川经济" tvg-name="四川经济" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/四川经济.png" group-title="本地+精品",四川经济
+rtp://239.11.0.2:5140
+#EXTINF:-1 tvg-id="四川文化旅游" tvg-name="四川文化旅游" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/四川文化旅游.png" group-title="本地+精品",四川文化旅游
+rtp://239.11.0.3:5140
+#EXTINF:-1 tvg-id="四川新闻" tvg-name="四川新闻" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/四川新闻.png" group-title="本地+精品",四川新闻
+rtp://239.11.0.5:5140
+#EXTINF:-1 tvg-id="四川影视文艺" tvg-name="四川影视文艺" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/四川影视文艺.png" group-title="本地+精品",四川影视文艺
+rtp://239.11.0.77:5140
+#EXTINF:-1 tvg-id="四川妇女儿童" tvg-name="四川妇女儿童" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/四川妇女儿童.png" group-title="本地+精品",四川妇女儿童
+rtp://239.11.0.8:5140
+#EXTINF:-1 tvg-id="四川科教" tvg-name="四川科教" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/四川科教.png" group-title="本地+精品",四川科教
+rtp://239.11.0.194:5140
+#EXTINF:-1 tvg-id="四川乡村" tvg-name="四川乡村" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/四川乡村.png" group-title="本地+精品",四川乡村
+rtp://239.11.0.4:5140
+#EXTINF:-1 tvg-id="四川峨眉电影" tvg-name="四川峨眉电影" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/四川峨眉电影.png" group-title="本地+精品",四川峨眉电影
+rtp://239.11.0.11:5140
+#EXTINF:-1 tvg-id="成都经济" tvg-name="成都经济" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/成都经济.png" group-title="本地+精品",成都经济
+rtp://239.10.0.12:5140
+#EXTINF:-1 tvg-id="成都综合" tvg-name="成都综合" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/成都综合.png" group-title="本地+精品",成都综合
+rtp://239.10.0.11:5140
+#EXTINF:-1 tvg-id="成都生活" tvg-name="成都生活" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/成都生活.png" group-title="本地+精品",成都生活
+rtp://239.10.0.13:5140
+#EXTINF:-1 tvg-id="成都影视" tvg-name="成都影视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/成都影视.png" group-title="本地+精品",成都影视
+rtp://239.10.0.14:5140
+#EXTINF:-1 tvg-id="成都公共" tvg-name="成都公共" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/成都公共.png" group-title="本地+精品",成都公共
+rtp://239.10.0.15:5140
+#EXTINF:-1 tvg-id="成都少儿" tvg-name="成都少儿" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/成都少儿.png" group-title="本地+精品",成都少儿
+rtp://239.10.0.16:5140
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CHC家庭影院.png" group-title="本地+精品",CHC家庭影院
+rtp://239.10.0.86:5140
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CHC动作电影.png" group-title="本地+精品",CHC动作电影
+rtp://239.10.0.87:5140
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CHC影迷电影.png" group-title="本地+精品",CHC影迷电影
+rtp://239.10.0.88:5140
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/凤凰中文.png" group-title="本地+精品",凤凰中文
+rtp://239.11.0.153:5140
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/凤凰资讯.png" group-title="本地+精品",凤凰资讯
+rtp://239.11.0.154:5140
+#EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/中国交通.png" group-title="本地+精品",中国交通
+rtp://239.10.0.143:5140
+#EXTINF:-1 tvg-id="家有" tvg-name="家有" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/家有.png" group-title="本地+精品",家有
+rtp://239.10.0.231:5140
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/北京纪实科教.png" group-title="本地+精品",北京纪实科教
+rtp://239.11.0.126:5140
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/金鹰纪实.png" group-title="本地+精品",金鹰纪实
+rtp://239.10.0.193:5140
+#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/求索纪录.png" group-title="本地+精品",求索纪录
+rtp://239.10.0.221:5140
+#EXTINF:-1 tvg-id="中国教育1" tvg-name="中国教育1" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/中国教育1.png" group-title="本地+精品",中国教育1
+rtp://239.11.0.139:5140
+#EXTINF:-1 tvg-id="中国教育2" tvg-name="中国教育2" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/中国教育2.png" group-title="本地+精品",中国教育2
+rtp://239.11.0.246:5140
+#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/山东教育.png" group-title="本地+精品",山东教育
+rtp://239.11.0.140:5140
+#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/中学生.png" group-title="本地+精品",中学生
+rtp://239.11.0.247:5140
+#EXTINF:-1 tvg-id="中国教育4" tvg-name="中国教育4" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/中国教育4.png" group-title="本地+精品",中国教育4
+rtp://239.11.0.248:5140
+#EXTINF:-1 tvg-id="华数" tvg-name="华数" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/华数.png" group-title="本地+精品",华数
+rtp://239.11.0.120:5140
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/金鹰卡通.png" group-title="本地+精品",金鹰卡通
+rtp://239.11.0.127:5140
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/卡酷少儿.png" group-title="本地+精品",卡酷少儿
+rtp://239.11.0.129:5140
+#EXTINF:-1 tvg-id="广东嘉佳卡通" tvg-name="广东嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/广东嘉佳卡通.png" group-title="本地+精品",广东嘉佳卡通
+rtp://239.11.0.203:5140
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/优漫卡通.png" group-title="本地+精品",优漫卡通
+rtp://239.11.0.63:5140
+#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/新动漫.png" group-title="本地+精品",新动漫
+rtp://239.10.0.159:5140
+#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/新动漫.png" group-title="本地+精品",新动漫
+rtp://239.10.0.89:5140
+#EXTINF:-1 tvg-id="IPTV热播剧场" tvg-name="IPTV热播剧场" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/IPTV热播剧场.png" group-title="本地+精品",IPTV热播剧场
+rtp://239.10.0.121:5140
+#EXTINF:-1 tvg-id="IPTV经典电影" tvg-name="IPTV经典电影" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/IPTV经典电影.png" group-title="本地+精品",IPTV经典电影
+rtp://239.10.0.122:5140
+#EXTINF:-1 tvg-id="IPTV谍战剧场" tvg-name="IPTV谍战剧场" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/IPTV谍战剧场.png" group-title="本地+精品",IPTV谍战剧场
+rtp://239.10.0.123:5140
+#EXTINF:-1 tvg-id="城市剧场" tvg-name="城市剧场" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/城市剧场.png" group-title="本地+精品",城市剧场
+rtp://239.10.0.124:5140
+#EXTINF:-1 tvg-id="军旅剧场" tvg-name="军旅剧场" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/军旅剧场.png" group-title="本地+精品",军旅剧场
+rtp://239.10.0.125:5140
+#EXTINF:-1 tvg-id="古装剧场" tvg-name="古装剧场" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/古装剧场.png" group-title="本地+精品",古装剧场
+rtp://239.10.0.126:5140
+#EXTINF:-1 tvg-id="家庭影院" tvg-name="家庭影院" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/家庭影院.png" group-title="本地+精品",家庭影院
+rtp://239.10.0.127:5140
+#EXTINF:-1 tvg-id="喜剧影院" tvg-name="喜剧影院" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/喜剧影院.png" group-title="本地+精品",喜剧影院
+rtp://239.10.0.132:5140
+#EXTINF:-1 tvg-id="武侠剧场" tvg-name="武侠剧场" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/武侠剧场.png" group-title="本地+精品",武侠剧场
+rtp://239.10.0.133:5140
+#EXTINF:-1 tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/咪咕4K.png" group-title="本地+精品",咪咕4K
+rtp://239.10.0.240:5140
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/咪咕视频.png" group-title="本地+精品",咪咕视频
+rtp://239.10.0.235:5140
+#EXTINF:-1 tvg-id="体育直播1" tvg-name="体育直播1" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/体育直播1.png" group-title="本地+精品",体育直播1
+rtp://239.10.0.17:5140
+#EXTINF:-1 tvg-id="体育直播2" tvg-name="体育直播2" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/体育直播2.png" group-title="本地+精品",体育直播2
+rtp://239.10.0.18:5140
+#EXTINF:-1 tvg-id="体育直播3" tvg-name="体育直播3" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/体育直播3.png" group-title="本地+精品",体育直播3
+rtp://239.10.0.19:5140
+#EXTINF:-1 tvg-id="体育直播4" tvg-name="体育直播4" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/体育直播4.png" group-title="本地+精品",体育直播4
+rtp://239.10.0.20:5140
+#EXTINF:-1 tvg-id="体育直播5" tvg-name="体育直播5" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/体育直播5.png" group-title="本地+精品",体育直播5
+rtp://239.10.0.21:5140
+#EXTINF:-1 tvg-id="体育直播6" tvg-name="体育直播6" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/体育直播6.png" group-title="本地+精品",体育直播6
+rtp://239.10.0.22:5140
+#EXTINF:-1 tvg-id="体育直播7" tvg-name="体育直播7" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/体育直播7.png" group-title="本地+精品",体育直播7
+rtp://239.10.0.23:5140
+#EXTINF:-1 tvg-id="体育直播8" tvg-name="体育直播8" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/体育直播8.png" group-title="本地+精品",体育直播8
+rtp://239.10.0.24:5140
+#EXTINF:-1 tvg-id="体育直播9" tvg-name="体育直播9" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/体育直播9.png" group-title="本地+精品",体育直播9
+rtp://239.10.0.25:5140
+#EXTINF:-1 tvg-id="体育直播10" tvg-name="体育直播10" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/体育直播10.png" group-title="本地+精品",体育直播10
+rtp://239.10.0.26:5140
+#EXTINF:-1 tvg-id="体育直播11" tvg-name="体育直播11" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/体育直播11.png" group-title="本地+精品",体育直播11
+rtp://239.10.0.27:5140
+#EXTINF:-1 tvg-id="体育直播12" tvg-name="体育直播12" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/体育直播12.png" group-title="本地+精品",体育直播12
+rtp://239.10.0.28:5140
+#EXTINF:-1 tvg-id="体育直播13" tvg-name="体育直播13" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/体育直播13.png" group-title="本地+精品",体育直播13
+rtp://239.10.0.40:5140
+#EXTINF:-1 tvg-id="体育直播14" tvg-name="体育直播14" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/体育直播14.png" group-title="本地+精品",体育直播14
+rtp://239.10.0.41:5140
+#EXTINF:-1 tvg-id="体育直播15" tvg-name="体育直播15" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/体育直播15.png" group-title="本地+精品",体育直播15
+rtp://239.10.0.42:5140
+#EXTINF:-1 tvg-id="体育直播16" tvg-name="体育直播16" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/体育直播16.png" group-title="本地+精品",体育直播16
+rtp://239.10.0.43:5140
+#EXTINF:-1 tvg-id="体育直播17" tvg-name="体育直播17" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/体育直播17.png" group-title="本地+精品",体育直播17
+rtp://239.10.0.44:5140
+#EXTINF:-1 tvg-id="体育直播18" tvg-name="体育直播18" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/体育直播18.png" group-title="本地+精品",体育直播18
+rtp://239.10.0.45:5140
+#EXTINF:-1 tvg-id="体育直播19" tvg-name="体育直播19" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/体育直播19.png" group-title="本地+精品",体育直播19
+rtp://239.10.0.237:5140
+#EXTINF:-1 tvg-id="体育直播20" tvg-name="体育直播20" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/体育直播20.png" group-title="本地+精品",体育直播20
+rtp://239.10.0.238:5140
+#EXTINF:-1 tvg-id="体育直播21" tvg-name="体育直播21" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/体育直播21.png" group-title="本地+精品",体育直播21
+rtp://239.10.0.239:5140
+#EXTINF:-1 tvg-id="体育直播22" tvg-name="体育直播22" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/体育直播22.png" group-title="本地+精品",体育直播22
+rtp://239.10.0.232:5140
+#EXTINF:-1 tvg-id="体育直播23" tvg-name="体育直播23" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/体育直播23.png" group-title="本地+精品",体育直播23
+rtp://239.10.0.233:5140
+#EXTINF:-1 tvg-id="体育直播24" tvg-name="体育直播24" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/体育直播24.png" group-title="本地+精品",体育直播24
+rtp://239.10.0.234:5140
+#EXTINF:-1 tvg-id="体育直播25" tvg-name="体育直播25" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/体育直播25.png" group-title="本地+精品",体育直播25
+rtp://239.10.0.236:5140
+#EXTINF:-1 tvg-id="戏曲" tvg-name="戏曲" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/戏曲.png" group-title="本地+精品",戏曲
+rtp://239.10.0.150:5140
+#EXTINF:-1 tvg-id="光影" tvg-name="光影" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/光影.png" group-title="本地+精品",光影
+rtp://239.10.0.153:5140
+#EXTINF:-1 tvg-id="星影" tvg-name="星影" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/星影.png" group-title="本地+精品",星影
+rtp://239.10.0.156:5140
+#EXTINF:-1 tvg-id="动画" tvg-name="动画" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/动画.png" group-title="本地+精品",动画
+rtp://239.10.0.163:5140
+#EXTINF:-1 tvg-id="高网" tvg-name="高网" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/高网.png" group-title="本地+精品",高网
+rtp://239.10.0.164:5140
+#EXTINF:-1 tvg-id="国学" tvg-name="国学" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/国学.png" group-title="本地+精品",国学
+rtp://239.10.0.186:5140
+#EXTINF:-1 tvg-id="地理" tvg-name="地理" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/地理.png" group-title="本地+精品",地理
+rtp://239.10.0.190:5140
+#EXTINF:-1 tvg-id="天府1" tvg-name="天府1" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/天府1.png" group-title="本地+精品",天府1
+rtp://239.10.0.136:5140
+#EXTINF:-1 tvg-id="天府2" tvg-name="天府2" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/天府2.png" group-title="本地+精品",天府2
+rtp://239.10.0.137:5140
+#EXTINF:-1 tvg-id="天府3" tvg-name="天府3" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/天府3.png" group-title="本地+精品",天府3
+rtp://239.10.0.138:5140
+#EXTINF:-1 tvg-id="天府4" tvg-name="天府4" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/天府4.png" group-title="本地+精品",天府4
+rtp://239.10.0.139:5140
+#EXTINF:-1 tvg-id="天府5" tvg-name="天府5" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/天府5.png" group-title="本地+精品",天府5
+rtp://239.10.0.140:5140
+#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/睛彩广场舞.png" group-title="本地+精品",睛彩广场舞
+rtp://239.10.0.131:5140
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/睛彩竞技.png" group-title="本地+精品",睛彩竞技
+rtp://239.10.0.224:5140
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/睛彩篮球.png" group-title="本地+精品",睛彩篮球
+rtp://239.11.0.122:5140
+#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/睛彩青少.png" group-title="本地+精品",睛彩青少
+rtp://239.10.0.130:5140
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV4K.png" group-title="4K频道",CCTV4K
+rtp://239.11.0.61:5140
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/北京卫视4K.png" group-title="4K频道",北京卫视4K
+rtp://239.10.0.91:5140
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/广东卫视4K.png" group-title="4K频道",广东卫视4K
+rtp://239.10.0.94:5140
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/深圳卫视4K.png" group-title="4K频道",深圳卫视4K
+rtp://239.10.0.93:5140
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视4K" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/四川卫视4K.png" group-title="4K频道",四川卫视4K
+rtp://239.11.0.86:5140
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/湖南卫视4K.png" group-title="4K频道",湖南卫视4K
+rtp://239.11.0.87:5140
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/江苏卫视4K.png" group-title="4K频道",江苏卫视4K
+rtp://239.11.0.88:5140
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/浙江卫视4K.png" group-title="4K频道",浙江卫视4K
+rtp://239.11.0.89:5140
+#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/东方卫视4K.png" group-title="4K频道",东方卫视4K
+rtp://239.11.0.90:5140
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4K" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/山东卫视4K.png" group-title="4K频道",山东卫视4K
+rtp://239.11.0.91:5140
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV8K.png" group-title="4K频道",CCTV8K
+rtp://239.10.0.134:5140
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CGTN纪录.png" group-title="其他频道",CGTN纪录
+rtp://239.11.0.138:5140
+#EXTINF:-1 tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CGTN英语.png" group-title="其他频道",CGTN英语
+rtp://239.11.0.245:5140
+#EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CGTN西班牙语.png" group-title="其他频道",CGTN西班牙语
+rtp://239.11.0.79:5140
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CGTN法语.png" group-title="其他频道",CGTN法语
+rtp://239.11.0.80:5140
+#EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CGTN阿拉伯语.png" group-title="其他频道",CGTN阿拉伯语
+rtp://239.11.0.81:5140
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CGTN俄语.png" group-title="其他频道",CGTN俄语
+rtp://239.11.0.82:5140
+#EXTINF:-1 tvg-id="稻城电视台" tvg-name="稻城电视台" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/稻城电视台.png" group-title="其他频道",稻城电视台
+rtp://239.10.0.29:5140
+#EXTINF:-1 tvg-id="康定综合" tvg-name="康定综合" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/康定综合.png" group-title="其他频道",康定综合
+rtp://239.10.0.30:5140
+#EXTINF:-1 tvg-id="甘孜综合" tvg-name="甘孜综合" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/甘孜综合.png" group-title="其他频道",甘孜综合
+rtp://239.10.0.32:5140
+#EXTINF:-1 tvg-id="泸州新闻" tvg-name="泸州新闻" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/泸州新闻.png" group-title="其他频道",泸州新闻
+rtp://239.10.0.46:5140
+#EXTINF:-1 tvg-id="泸州科教" tvg-name="泸州科教" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/泸州科教.png" group-title="其他频道",泸州科教
+rtp://239.10.0.48:5140
+#EXTINF:-1 tvg-id="阿坝汉语" tvg-name="阿坝汉语" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/阿坝汉语.png" group-title="其他频道",阿坝汉语
+rtp://239.10.0.50:5140
+#EXTINF:-1 tvg-id="阿坝藏语" tvg-name="阿坝藏语" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/阿坝藏语.png" group-title="其他频道",阿坝藏语
+rtp://239.10.0.51:5140
+#EXTINF:-1 tvg-id="巴中综合" tvg-name="巴中综合" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/巴中综合.png" group-title="其他频道",巴中综合
+rtp://239.10.0.52:5140
+#EXTINF:-1 tvg-id="巴中文旅" tvg-name="巴中文旅" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/巴中文旅.png" group-title="其他频道",巴中文旅
+rtp://239.10.0.53:5140
+#EXTINF:-1 tvg-id="达州新闻" tvg-name="达州新闻" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/达州新闻.png" group-title="其他频道",达州新闻
+rtp://239.10.0.54:5140
+#EXTINF:-1 tvg-id="达州文化生活" tvg-name="达州文化生活" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/达州文化生活.png" group-title="其他频道",达州文化生活
+rtp://239.10.0.55:5140
+#EXTINF:-1 tvg-id="德阳综合" tvg-name="德阳综合" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/德阳综合.png" group-title="其他频道",德阳综合
+rtp://239.10.0.56:5140
+#EXTINF:-1 tvg-id="德阳文旅" tvg-name="德阳文旅" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/德阳文旅.png" group-title="其他频道",德阳文旅
+rtp://239.10.0.57:5140
+#EXTINF:-1 tvg-id="广安新闻" tvg-name="广安新闻" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/广安新闻.png" group-title="其他频道",广安新闻
+rtp://239.10.0.58:5140
+#EXTINF:-1 tvg-id="广安文旅" tvg-name="广安文旅" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/广安文旅.png" group-title="其他频道",广安文旅
+rtp://239.10.0.59:5140
+#EXTINF:-1 tvg-id="广元综合" tvg-name="广元综合" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/广元综合.png" group-title="其他频道",广元综合
+rtp://239.10.0.60:5140
+#EXTINF:-1 tvg-id="广元文化" tvg-name="广元文化" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/广元文化.png" group-title="其他频道",广元文化
+rtp://239.10.0.61:5140
+#EXTINF:-1 tvg-id="乐山新闻" tvg-name="乐山新闻" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/乐山新闻.png" group-title="其他频道",乐山新闻
+rtp://239.10.0.62:5140
+#EXTINF:-1 tvg-id="乐山文旅" tvg-name="乐山文旅" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/乐山文旅.png" group-title="其他频道",乐山文旅
+rtp://239.10.0.63:5140
+#EXTINF:-1 tvg-id="凉山新闻综合" tvg-name="凉山新闻综合" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/凉山新闻综合.png" group-title="其他频道",凉山新闻综合
+rtp://239.10.0.64:5140
+#EXTINF:-1 tvg-id="凉山彝语综合" tvg-name="凉山彝语综合" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/凉山彝语综合.png" group-title="其他频道",凉山彝语综合
+rtp://239.10.0.65:5140
+#EXTINF:-1 tvg-id="眉山综合" tvg-name="眉山综合" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/眉山综合.png" group-title="其他频道",眉山综合
+rtp://239.10.0.66:5140
+#EXTINF:-1 tvg-id="眉山公共" tvg-name="眉山公共" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/眉山公共.png" group-title="其他频道",眉山公共
+rtp://239.10.0.67:5140
+#EXTINF:-1 tvg-id="南充综合" tvg-name="南充综合" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/南充综合.png" group-title="其他频道",南充综合
+rtp://239.10.0.68:5140
+#EXTINF:-1 tvg-id="南充科教" tvg-name="南充科教" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/南充科教.png" group-title="其他频道",南充科教
+rtp://239.10.0.70:5140
+#EXTINF:-1 tvg-id="内江综合" tvg-name="内江综合" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内江综合.png" group-title="其他频道",内江综合
+rtp://239.10.0.71:5140
+#EXTINF:-1 tvg-id="内江科教" tvg-name="内江科教" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内江科教.png" group-title="其他频道",内江科教
+rtp://239.10.0.73:5140
+#EXTINF:-1 tvg-id="攀枝花新闻" tvg-name="攀枝花新闻" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/攀枝花新闻.png" group-title="其他频道",攀枝花新闻
+rtp://239.10.0.74:5140
+#EXTINF:-1 tvg-id="遂宁综合" tvg-name="遂宁综合" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/遂宁综合.png" group-title="其他频道",遂宁综合
+rtp://239.10.0.76:5140
+#EXTINF:-1 tvg-id="遂宁文旅" tvg-name="遂宁文旅" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/遂宁文旅.png" group-title="其他频道",遂宁文旅
+rtp://239.10.0.77:5140
+#EXTINF:-1 tvg-id="雅安新闻" tvg-name="雅安新闻" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/雅安新闻.png" group-title="其他频道",雅安新闻
+rtp://239.10.0.78:5140
+#EXTINF:-1 tvg-id="雅安公共" tvg-name="雅安公共" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/雅安公共.png" group-title="其他频道",雅安公共
+rtp://239.10.0.79:5140
+#EXTINF:-1 tvg-id="宜宾新闻" tvg-name="宜宾新闻" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/宜宾新闻.png" group-title="其他频道",宜宾新闻
+rtp://239.10.0.80:5140
+#EXTINF:-1 tvg-id="宜宾公共" tvg-name="宜宾公共" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/宜宾公共.png" group-title="其他频道",宜宾公共
+rtp://239.10.0.81:5140
+#EXTINF:-1 tvg-id="资阳新闻" tvg-name="资阳新闻" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/资阳新闻.png" group-title="其他频道",资阳新闻
+rtp://239.10.0.82:5140
+#EXTINF:-1 tvg-id="自贡综合" tvg-name="自贡综合" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/自贡综合.png" group-title="其他频道",自贡综合
+rtp://239.10.0.83:5140
+#EXTINF:-1 tvg-id="自贡文化" tvg-name="自贡文化" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/自贡文化.png" group-title="其他频道",自贡文化
+rtp://239.10.0.84:5140
+#EXTINF:-1 tvg-id="绵阳新闻" tvg-name="绵阳新闻" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/绵阳新闻.png" group-title="其他频道",绵阳新闻
+rtp://239.10.0.96:5140
+#EXTINF:-1 tvg-id="绵阳科技" tvg-name="绵阳科技" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/绵阳科技.png" group-title="其他频道",绵阳科技
+rtp://239.10.0.98:5140
