@@ -109,22 +109,20 @@
 239.253.246.171:8000
 #EXTINF:-1 tvg-id="山东齐鲁" tvg-name="山东齐鲁" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/山东齐鲁.png" group-title="本地+精品",山东齐鲁
 239.253.246.114:8000
+#EXTINF:-1 tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/山东新闻.png" group-title="本地+精品",山东新闻
+239.253.246.23:8000
 #EXTINF:-1 tvg-id="山东文旅" tvg-name="山东文旅" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/山东文旅.png" group-title="本地+精品",山东文旅
 239.253.246.160:8000
 #EXTINF:-1 tvg-id="山东生活" tvg-name="山东生活" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/山东生活.png" group-title="本地+精品",山东生活
 239.253.246.151:8000
 #EXTINF:-1 tvg-id="山东综艺" tvg-name="山东综艺" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/山东综艺.png" group-title="本地+精品",山东综艺
 239.253.246.159:8000
-#EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/山东体育.png" group-title="本地+精品",山东体育
+#EXTINF:-1 tvg-id="山东体育休闲" tvg-name="山东体育休闲" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/山东体育休闲.png" group-title="本地+精品",山东体育休闲
 239.253.246.22:8000
-#EXTINF:-1 tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/山东新闻.png" group-title="本地+精品",山东新闻
-239.253.246.23:8000
 #EXTINF:-1 tvg-id="山东农科" tvg-name="山东农科" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/山东农科.png" group-title="本地+精品",山东农科
 239.253.246.24:8000
 #EXTINF:-1 tvg-id="山东少儿" tvg-name="山东少儿" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/山东少儿.png" group-title="本地+精品",山东少儿
 239.253.246.25:8000
-#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/山东教育.png" group-title="本地+精品",山东教育
-239.253.246.59:8000
 #EXTINF:-1 tvg-id="山东海洋频道" tvg-name="山东海洋频道" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/山东海洋频道.png" group-title="本地+精品",山东海洋频道
 239.253.246.67:8000
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CHC家庭影院.png" group-title="本地+精品",CHC家庭影院
@@ -215,10 +213,12 @@
 239.253.246.163:8000
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CETV1.png" group-title="本地+精品",CETV1
 239.253.246.110:8000
-#EXTINF:-1 tvg-id="中国教育2" tvg-name="中国教育2" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/中国教育2.png" group-title="本地+精品",中国教育2
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CETV2.png" group-title="本地+精品",CETV2
 239.253.246.107:8000
-#EXTINF:-1 tvg-id="中国教育4" tvg-name="中国教育4" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/中国教育4.png" group-title="本地+精品",中国教育4
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CETV4.png" group-title="本地+精品",CETV4
 239.253.246.116:8000
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/山东教育卫视.png" group-title="本地+精品",山东教育卫视
+239.253.246.59:8000
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV4K.png" group-title="4K频道",CCTV4K
 239.253.246.122:8000
 #EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4K" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/山东卫视4K.png" group-title="4K频道",山东卫视4K
