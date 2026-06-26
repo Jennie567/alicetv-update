@@ -1,6 +1,6 @@
 {
-  "version": "2026.06.26.1414",
-  "updated_at": "2026-06-26 14:14:34",
+  "version": "2026.06.26.1426",
+  "updated_at": "2026-06-26 14:26:29",
   "region": "yunnan_mobile",
   "channel_count": 90,
   "channels": [
@@ -558,31 +558,31 @@
       "src": "228.0.1.171:6143"
     },
     {
-      "id": "CETV-1高清",
-      "name": "CETV-1高清",
+      "id": "CETV1",
+      "name": "CETV1",
       "group": "本地+精品",
-      "logo": "CETV-1高清.png",
+      "logo": "CETV1.png",
       "src": "228.0.0.227:6053"
     },
     {
-      "id": "CETV-4高清",
-      "name": "CETV-4高清",
+      "id": "CETV4",
+      "name": "CETV4",
       "group": "本地+精品",
-      "logo": "CETV-4高清.png",
+      "logo": "CETV4.png",
       "src": "228.0.3.54:6407"
     },
     {
-      "id": "CGTN-新闻",
-      "name": "CGTN-新闻",
+      "id": "CGTN",
+      "name": "CGTN",
       "group": "本地+精品",
-      "logo": "CGTN-新闻.png",
+      "logo": "CGTN.png",
       "src": "228.0.0.216:6032"
     },
     {
-      "id": "CGTN-记录",
-      "name": "CGTN-记录",
+      "id": "CGTN纪录",
+      "name": "CGTN纪录",
       "group": "本地+精品",
-      "logo": "CGTN-记录.png",
+      "logo": "CGTN纪录.png",
       "src": "228.0.0.217:6034"
     },
     {
