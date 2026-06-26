@@ -105,8 +105,6 @@ rtp://228.0.1.168:6137
 rtp://228.0.1.165:6131
 #EXTINF:-1 tvg-id="昆明影视" tvg-name="昆明影视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/昆明影视.png" group-title="本地+精品",昆明影视
 rtp://228.0.1.166:6133
-#EXTINF:-1 tvg-id="CCTV164K" tvg-name="CCTV164K" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV164K.png" group-title="本地+精品",CCTV164K
-rtp://228.0.3.200:6401
 #EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/求索纪录.png" group-title="本地+精品",求索纪录
 rtp://228.0.2.243:6286
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/金鹰纪实.png" group-title="本地+精品",金鹰纪实
@@ -167,3 +165,17 @@ rtp://228.0.3.54:6407
 rtp://228.0.0.216:6032
 #EXTINF:-1 tvg-id="CGTN-记录" tvg-name="CGTN-记录" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CGTN-记录.png" group-title="本地+精品",CGTN-记录
 rtp://228.0.0.217:6034
+#EXTINF:-1 tvg-id="CCTV164K" tvg-name="CCTV164K" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV164K.png" group-title="4K频道",CCTV164K
+rtp://228.0.3.200:6401
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/湖南卫视4K.png" group-title="4K频道",湖南卫视4K
+rtp://228.0.3.211:6721
+#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/东方卫视4K.png" group-title="4K频道",东方卫视4K
+rtp://228.0.3.218:6735
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/江苏卫视4K.png" group-title="4K频道",江苏卫视4K
+rtp://228.0.3.249:6799
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/浙江卫视4K.png" group-title="4K频道",浙江卫视4K
+rtp://228.0.3.213:6725
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视4K" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/四川卫视4K.png" group-title="4K频道",四川卫视4K
+rtp://228.0.3.212:6723
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4K" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/山东卫视4K.png" group-title="4K频道",山东卫视4K
+rtp://228.0.3.209:6717
