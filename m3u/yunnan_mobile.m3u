@@ -6,13 +6,13 @@ rtp://228.0.0.202:6004
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV3.png" group-title="央视+卫视",CCTV3
 rtp://228.0.0.243:6087
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV4.png" group-title="央视+卫视",CCTV4
-rtp://228.0.0.104:5054
+http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225615/1.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV5.png" group-title="央视+卫视",CCTV5
 rtp://228.0.0.244:6089
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV6.png" group-title="央视+卫视",CCTV6
 rtp://228.0.0.245:6091
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV7.png" group-title="央视+卫视",CCTV7
-rtp://228.0.0.107:5057
+http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225831/1.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV8.png" group-title="央视+卫视",CCTV8
 rtp://228.0.0.246:6093
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV9.png" group-title="央视+卫视",CCTV9
@@ -20,15 +20,15 @@ rtp://228.0.0.209:6018
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV10.png" group-title="央视+卫视",CCTV10
 rtp://228.0.0.210:6020
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV11.png" group-title="央视+卫视",CCTV11
-rtp://228.0.0.11:5011
+http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225591/1.m3u8
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV12.png" group-title="央视+卫视",CCTV12
 rtp://228.0.0.211:6022
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV13.png" group-title="央视+卫视",CCTV13
-rtp://228.0.0.13:5013
+http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225587/1.m3u8
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV14.png" group-title="央视+卫视",CCTV14
 rtp://228.0.0.213:6026
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV15.png" group-title="央视+卫视",CCTV15
-rtp://228.0.0.15:5015
+http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225583/1.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV16.png" group-title="央视+卫视",CCTV16
 rtp://228.0.0.247:6095
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV17.png" group-title="央视+卫视",CCTV17

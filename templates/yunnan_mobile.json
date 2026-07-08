@@ -1,6 +1,6 @@
 {
-  "version": "2026.07.01.1500",
-  "updated_at": "2026-07-01 15:00:02",
+  "version": "2026.07.08.1217",
+  "updated_at": "2026-07-08 12:17:44",
   "region": "yunnan_mobile",
   "channel_count": 90,
   "channels": [
@@ -30,7 +30,7 @@
       "name": "CCTV4",
       "group": "央视+卫视",
       "logo": "CCTV4.png",
-      "src": "228.0.0.104:5054"
+      "src": "http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225615/1.m3u8"
     },
     {
       "id": "CCTV5",
@@ -51,7 +51,7 @@
       "name": "CCTV7",
       "group": "央视+卫视",
       "logo": "CCTV7.png",
-      "src": "228.0.0.107:5057"
+      "src": "http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225831/1.m3u8"
     },
     {
       "id": "CCTV8",
@@ -79,7 +79,7 @@
       "name": "CCTV11",
       "group": "央视+卫视",
       "logo": "CCTV11.png",
-      "src": "228.0.0.11:5011"
+      "src": "http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225591/1.m3u8"
     },
     {
       "id": "CCTV12",
@@ -93,7 +93,7 @@
       "name": "CCTV13",
       "group": "央视+卫视",
       "logo": "CCTV13.png",
-      "src": "228.0.0.13:5013"
+      "src": "http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225587/1.m3u8"
     },
     {
       "id": "CCTV14",
@@ -107,7 +107,7 @@
       "name": "CCTV15",
       "group": "央视+卫视",
       "logo": "CCTV15.png",
-      "src": "228.0.0.15:5015"
+      "src": "http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225583/1.m3u8"
     },
     {
       "id": "CCTV16",
